@@ -17,6 +17,6 @@ As aulas consitiram no aprendizado da análise de dados, realizando levantamento
 
 Cada aula está referenciado pelo seu número na pasta e as tarefas realizadas
 
-* Aula00 - Python Básico para Data Science
-* Aula01 - Pandas e Matplotlib
+* Aula00 - Python Básico para Data Science - 15/03
+* Aula01 - Pandas e Matplotlib - 22/03
 
