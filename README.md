@@ -9,7 +9,7 @@ Nas aulas foram ensinadas e usadas as bibliotecas:
 * pandas
 * matplotlib
 
-Também foram levantados conceitos de estatística báscia.
+Também foram levantados conceitos de estatística básica.
 
 As aulas consitiram no aprendizado da análise de dados, realizando levantamentos estatísticos sobre esses dados. Dados foram analisados e trabalhados para o entendimento destes e a criação de gráficos para a sua visualização.
 
@@ -18,5 +18,5 @@ As aulas consitiram no aprendizado da análise de dados, realizando levantamento
 Cada aula está referenciado pelo seu número na pasta e as tarefas realizadas
 
 * Aula00 - Python Básico para Data Science
-*
+* Aula01 - Pandas e Matplotlib
 
