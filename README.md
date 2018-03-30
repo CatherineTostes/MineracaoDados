@@ -13,3 +13,10 @@ Também foram levantados conceitos de estatística báscia.
 
 As aulas consitiram no aprendizado da análise de dados, realizando levantamentos estatísticos sobre esses dados. Dados foram analisados e trabalhados para o entendimento destes e a criação de gráficos para a sua visualização.
 
+## Aulas Práticas
+
+Cada aula está referenciado pelo seu número na pasta e as tarefas realizadas
+
+* Aula00 - Python Básico para Data Science
+*
+
