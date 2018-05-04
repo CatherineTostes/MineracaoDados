@@ -19,4 +19,8 @@ Cada aula está referenciado pelo seu número na pasta e as tarefas realizadas
 
 * Aula00 - Python Básico para Data Science - 15/03
 * Aula01 - Pandas e Matplotlib - 22/03
+* Análise de Reclamações do Procon - 03/04
+
+## Links:
+https://nbviewer.jupyter.org/github/CatherineTostes/MineracaoDados/blob/master/AnaliseProcon/Relatorio_Analise_Reclamacoes.ipynb
 
